@@ -1,7 +1,7 @@
 svg.qtlcharts, svg.d3panels {
     font-family: sans-serif;
     font-size: 11pt;
-    border-left: 100px;
+    width: 80%;
 }
 svg.qtlcharts .title text, svg.d3panels .title text {
     dominant-baseline: middle;
