@@ -1,3 +1,7 @@
+svg.qtlcharts {
+  margin-left: 1000px;
+}
+
 svg.qtlcharts, svg.d3panels {
     font-family: sans-serif;
     font-size: 11pt;
@@ -129,7 +133,6 @@ div.error p {
 div.qtlcharts {
     font-family: sans-serif;
     font-size: 12pt;
-    width: 2000px;
 }
 div.searchbox {
     font-family: Sans-serif;
